@@ -1,10 +1,13 @@
 # Awesome-Bot
 
-## What we want to do?
+## What we want to do: ( about the bot )
   >- [ ]  Play music
   >- [ ]  List price of cryptocurrencies
   >- [ ]  Create a playlist for the server
   >- [ ]  Moderator commands
+  
+## What we want to do: ( about the code )
+  >- [ ]  List how to intall the bot
   
 ## What we did?
   >- Nothing :'(
