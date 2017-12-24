@@ -1,9 +1,8 @@
 import discord
 from discord.ext import commands
-from discord.ext.commmands import Bot  
 import requests
 
-client = Bot(command_prefix='!', description='''Developed by: @DwarfThief#3805''', pm_help = True)
+client = commands.Bot(command_prefix='!', description='''Developed by: @DwarfThief#3805''', pm_help = True)
 
 BOT_USER_TOKEN = " " #<--add here your bot_token
 
