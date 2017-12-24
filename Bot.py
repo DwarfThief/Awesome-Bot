@@ -5,7 +5,7 @@ import requests
 
 client = Bot(command_prefix='!', description='''Developed by: @DwarfThief#3805''', pm_help = True)
 
-BOT_USER_TOKEN = "Mzk0MzMxNzQwODM2OTg2ODgw.DSC23A.gk7Zje-wFWLPJq3OtvmUzJl51Vc"
+BOT_USER_TOKEN = " " #<--add here your bot_token
 
 @client.event
 async def on_ready():
