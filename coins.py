@@ -4,7 +4,7 @@ import requests
 
 bot = commands.Bot(command_prefix='!', description='''Developed by: @DwarfThief#3805''', pm_help = True)
 
-class CriptoCurrency(object):
+class CoinsSearch(object):
 	
 	@bot.command()
 	async def btc(currency : str):
