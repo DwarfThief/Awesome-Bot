@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands 
 import requests
-from CriptoSearch import CriptoCurrency
+from Coins import CoinsSearch
 import asyncio
 
 bot = commands.Bot(command_prefix='!', description='''Developed by: @DwarfThief#3805''', pm_help = True)
