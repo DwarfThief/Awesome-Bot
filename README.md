@@ -2,7 +2,7 @@
 
 ## What we want to do: ( about the bot )
   >- [ ]  Play music
-  >- [ ]  List price of cryptocurrencies
+  >- [X]  List price of cryptocurrencies
   >- [ ]  Create a playlist for the server
   >- [ ]  Moderator commands
   
