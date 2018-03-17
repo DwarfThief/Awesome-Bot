@@ -7,7 +7,7 @@
   >- [ ]  Moderator commands
   
 ## What we want to do: ( about the code )
-  >- [ ]  List how to intall the bot
+  >- [ ]  List how to install the bot
   
 ## What we did?
   >- Nothing :'(
